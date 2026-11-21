@@ -1,0 +1,570 @@
+{
+    "resumen": {
+        "total_ventas": 200,
+        "total_ingresos": 167497000,
+        "ventas_por_mes": {
+            "2025-01": {
+                "total_ventas": 6,
+                "ingresos": 4486000,
+                "vendedores": {
+                    "Andrés": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 602000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 788000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 1268000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1828000
+                    }
+                }
+            },
+            "2025-02": {
+                "total_ventas": 7,
+                "ingresos": 4434000,
+                "vendedores": {
+                    "Laura": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 2163000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1411000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 220000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 640000
+                    }
+                }
+            },
+            "2025-03": {
+                "total_ventas": 9,
+                "ingresos": 15733000,
+                "vendedores": {
+                    "Carlos": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 667000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 6077000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1102000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 1141000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 2737000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 4009000
+                    }
+                }
+            },
+            "2025-04": {
+                "total_ventas": 10,
+                "ingresos": 9402000,
+                "vendedores": {
+                    "Carlos": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 159000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 3527000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 448000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 4616000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 652000
+                    }
+                }
+            },
+            "2025-05": {
+                "total_ventas": 5,
+                "ingresos": 3052000,
+                "vendedores": {
+                    "Mateo": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 1015000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 912000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 682000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 443000
+                    }
+                }
+            },
+            "2025-06": {
+                "total_ventas": 9,
+                "ingresos": 9982000,
+                "vendedores": {
+                    "Mateo": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 3716000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 3261000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 2934000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 71000
+                    }
+                }
+            },
+            "2025-07": {
+                "total_ventas": 8,
+                "ingresos": 5052000,
+                "vendedores": {
+                    "Sofía": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1219000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 44000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 328000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 2151000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 812000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 498000
+                    }
+                }
+            },
+            "2025-08": {
+                "total_ventas": 15,
+                "ingresos": 7682000,
+                "vendedores": {
+                    "Andrés": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 376000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 4,
+                        "ingresos": 4096000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 4,
+                        "ingresos": 689000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1001000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 1520000
+                    }
+                }
+            },
+            "2025-09": {
+                "total_ventas": 13,
+                "ingresos": 6322000,
+                "vendedores": {
+                    "Laura": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 760000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 4,
+                        "ingresos": 2073000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1172000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 581000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 1736000
+                    }
+                }
+            },
+            "2025-10": {
+                "total_ventas": 8,
+                "ingresos": 3429000,
+                "vendedores": {
+                    "Andrés": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1377000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 356000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1022000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 225000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 449000
+                    }
+                }
+            },
+            "2025-11": {
+                "total_ventas": 15,
+                "ingresos": 18246000,
+                "vendedores": {
+                    "Andrés": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 3831000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 2079000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1174000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 3557000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 3375000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 4230000
+                    }
+                }
+            },
+            "2025-12": {
+                "total_ventas": 7,
+                "ingresos": 3464000,
+                "vendedores": {
+                    "Mateo": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 220000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1083000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 841000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 255000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 1065000
+                    }
+                }
+            },
+            "2026-01": {
+                "total_ventas": 8,
+                "ingresos": 7958000,
+                "vendedores": {
+                    "Laura": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 1547000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1314000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 5097000
+                    }
+                }
+            },
+            "2026-02": {
+                "total_ventas": 3,
+                "ingresos": 459000,
+                "vendedores": {
+                    "Andrés": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 459000
+                    }
+                }
+            },
+            "2026-03": {
+                "total_ventas": 12,
+                "ingresos": 8464000,
+                "vendedores": {
+                    "Mateo": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1989000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 2997000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 1814000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 275000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 729000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 660000
+                    }
+                }
+            },
+            "2026-04": {
+                "total_ventas": 10,
+                "ingresos": 6401000,
+                "vendedores": {
+                    "Carlos": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 2863000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 87000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 2185000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 1266000
+                    }
+                }
+            },
+            "2026-05": {
+                "total_ventas": 9,
+                "ingresos": 4676000,
+                "vendedores": {
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 972000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 958000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 424000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 100000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 2222000
+                    }
+                }
+            },
+            "2026-06": {
+                "total_ventas": 7,
+                "ingresos": 7756000,
+                "vendedores": {
+                    "Mateo": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 5646000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 727000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 587000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 123000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 673000
+                    }
+                }
+            },
+            "2026-07": {
+                "total_ventas": 7,
+                "ingresos": 6965000,
+                "vendedores": {
+                    "Sofía": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 3655000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 2424000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 378000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 508000
+                    }
+                }
+            },
+            "2026-08": {
+                "total_ventas": 9,
+                "ingresos": 9747000,
+                "vendedores": {
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1551000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 598000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 496000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 4988000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 2114000
+                    }
+                }
+            },
+            "2026-09": {
+                "total_ventas": 7,
+                "ingresos": 5148000,
+                "vendedores": {
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 977000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1742000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 184000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 1740000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 505000
+                    }
+                }
+            },
+            "2026-10": {
+                "total_ventas": 10,
+                "ingresos": 15257000,
+                "vendedores": {
+                    "Sofía": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 3008000
+                    },
+                    "Laura": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 3202000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 3,
+                        "ingresos": 7538000
+                    },
+                    "Andrés": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 1509000
+                    }
+                }
+            },
+            "2026-11": {
+                "total_ventas": 6,
+                "ingresos": 3382000,
+                "vendedores": {
+                    "Laura": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 802000
+                    },
+                    "Mateo": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 619000
+                    },
+                    "Carlos": {
+                        "cantidad_ventas": 2,
+                        "ingresos": 657000
+                    },
+                    "Ana": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 1108000
+                    },
+                    "Sofía": {
+                        "cantidad_ventas": 1,
+                        "ingresos": 196000
+                    }
+                }
+            }
+        }
+    }
+}

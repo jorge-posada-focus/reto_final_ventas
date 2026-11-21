@@ -1,0 +1,16 @@
+[2026-11-21 15:16:23] ERROR | Fila: 2 | Campo: fecha | Valor: '2025/01/04' | Motivo: La fecha es inválida
+[2026-11-21 15:16:23] ERROR | Fila: 3 | Campo: vendedor | Valor: 'Pepito' | Motivo: El vendedor no existe
+[2026-11-21 15:16:23] ERROR | Fila: 4 | Campo: producto | Valor: 'Consolador' | Motivo: El producto no está en el catálogo
+[2026-11-21 15:16:23] ERROR | Fila: 5 | Campo: valor | Valor: '15milpenes' | Motivo: El valor debe ser un entero no negativo
+[2026-11-21 15:16:23] ERROR | Fila: 27 | Campo: fecha | Valor: 'fecha_invalida' | Motivo: La fecha es inválida
+[2026-11-21 15:16:23] ERROR | Fila: 67 | Campo: fecha | Valor: '' | Motivo: La fecha es inválida
+[2026-11-21 15:16:23] ERROR | Fila: 68 | Campo: valor | Valor: 'abc' | Motivo: El valor debe ser un entero no negativo
+[2026-11-21 15:16:23] ERROR | Fila: 111 | Campo: fecha | Valor: '2025-04-31' | Motivo: La fecha es inválida
+[2026-11-21 15:16:23] ERROR | Fila: 127 | Campo: fecha | Valor: '2026-01-32' | Motivo: La fecha es inválida
+[2026-11-21 15:16:23] ERROR | Fila: 133 | Campo: valor | Valor: '' | Motivo: El valor debe ser un entero no negativo
+[2026-11-21 15:16:23] ERROR | Fila: 150 | Campo: fecha | Valor: '2025/06/22' | Motivo: La fecha es inválida
+[2026-11-21 15:16:23] ERROR | Fila: 171 | Campo: valor | Valor: 'no_disponible' | Motivo: El valor debe ser un entero no negativo
+[2026-11-21 15:16:23] ERROR | Fila: 184 | Campo: producto | Valor: '' | Motivo: El producto no está en el catálogo
+[2026-11-21 15:16:23] ERROR | Fila: 188 | Campo: vendedor | Valor: '' | Motivo: El vendedor no existe
+[2026-11-21 15:16:23] ERROR | Fila: 198 | Campo: vendedor | Valor: '' | Motivo: El vendedor no existe
+[2026-11-21 15:16:23] ERROR | Fila: 205 | Campo: valor | Valor: 'valor_desconocido' | Motivo: El valor debe ser un entero no negativo
